@@ -9,7 +9,7 @@ import sys as sys
 
 image = misc.imread(sys.argv[1])
 
-# the tuple shape (row, columns, <rgb vector>)
+# the shape of the image
 print image.shape
 
 # Intialize a new array of zeroes with the same shape
