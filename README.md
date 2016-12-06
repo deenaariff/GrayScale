@@ -1,6 +1,6 @@
 # Convert Images to GreyScale
 
-A small script to convert any image to greyscale through averaging RGB values in a Three Dimensional Array of the image.
+A small script to convert any image to grayscale through averaging RGB values in a three dimensional np-array of the image.
 
 ## Usage
 
