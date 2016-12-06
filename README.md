@@ -1,6 +1,6 @@
 # Convert Images to GreyScale
 
-A small script to convert any image to grayscale through averaging RGB values in a three dimensional np-array of the image.
+Python script using matplotlib and numpy to convert any image to grayscale through averaging RGB values in a three dimensional numpy-array of the image.
 
 ## Usage
 
