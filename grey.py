@@ -2,10 +2,10 @@ from scipy import misc
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt 
-import sys.argv as argv
+import sys as sys
 
 
-image = misc.imread(argv[1])
+image = misc.imread(sys.argv[1])
 
 # the tuple shape (row, columns, <rgb vector>)
 print image.shape
